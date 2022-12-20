@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641443245558",
+    "project_id": "flybaez-b0756",
+    "storage_bucket": "flybaez-b0756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641443245558:android:4b423dad0c90c16870abd7",
+        "android_client_info": {
+          "package_name": "com.example.stealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641443245558-b7ksnjoa6a1nkqhanmqrn9g5kkqea5pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stealth",
+            "certificate_hash": "3c213a29e0067e7abc2593b9592ff5ddcfb2037b"
+          }
+        },
+        {
+          "client_id": "641443245558-u8ktuqiqbs9gvmpmsk62ho79i0ou80gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIN8qqn4tGJJnnWxUnOYW86iM_VtECCXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641443245558-u8ktuqiqbs9gvmpmsk62ho79i0ou80gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
